@@ -1,0 +1,11 @@
+material_id,material_name,category,spec,unit_of_measure,safety_stock_qty,lead_time_days,primary_vendor_id,secondary_vendor_id,unit_cost_usd,shelf_life_days,active
+M0001,Cotton Linters,Raw Fiber,BEP-CL-01,LB,5000,21,V0011,,1.85,365,True
+M0002,Security Thread 4mm,Security Thread,BEP-ST-4,ROLL,120,35,V0002,V0008,425.00,1095,True
+M0003,OVI Green Ink,Security Ink,BEP-OVI-G,KG,300,28,V0003,,210.00,540,True
+M0004,Holographic Foil 12um,Holographic Foil,BEP-HF-12,ROLL,80,42,V0004,V0012,310.00,730,True
+M0005,Adhesive BEP-7,Adhesive,BEP-ADH-7,KG,200,18,V0014,,18.50,365,True
+M0006,Packaging Cartons,Packaging,BEP-CART-1,EA,2000,10,V0006,,0.85,1825,True
+M0007,Steel Plate Blank,Spare Parts,BEP-PLATE-S,EA,40,30,V0005,,95.00,3650,True
+M0008,Cleaning Solvent,Solvent,BEP-SOL-3,L,600,12,V0013,,4.10,365,True
+M0009,Color Additive A12,Additive,BEP-ADD-A12,KG,150,20,V0009,,12.50,730,True
+M0010,Sensor Gauge,Metrology,BEP-GA-05,EA,10,15,V0010,,650.00,1825,True

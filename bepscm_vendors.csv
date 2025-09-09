@@ -1,0 +1,16 @@
+vendor_id,vendor_name,category,criticality,status,country,duns,on_time_pct,quality_score,risk_score,contract_id,incoterms,payment_terms
+V0001,Atlas Paper Substrates,Paper Substrate,High,Active,US,123456789,96,98,12,C-2025-001,FOB,Net30
+V0002,SecuThread International,Security Thread,High,Active,DE,234567890,92,97,18,C-2025-002,CIF,Net45
+V0003,Chromaprint Inks,Security Ink,High,Active,US,345678901,94,96,15,C-2025-003,FOB,Net30
+V0004,HoloSecure Optics,Holographic Foil,Medium,Active,JP,456789012,90,95,22,C-2025-004,FCA,Net45
+V0005,Precision Parts & Gears,Spare Parts,Medium,Active,US,567890123,93,94,20,C-2025-005,FOB,Net30
+V0006,GlobalPack Solutions,Packaging,Low,Active,MX,678901234,97,93,10,C-2025-006,DDP,Net30
+V0007,Reliant Logistics,Logistics,Medium,Active,US,789012345,95,92,16,C-2025-007,CPT,Net30
+V0008,OptiThread Europe,Security Thread,High,Active,NL,890123456,88,95,28,C-2025-008,CIF,Net45
+V0009,ColorBind Additives,Chemical Additive,Medium,Active,US,901234567,91,93,19,C-2025-009,FOB,Net30
+V0010,TrueCount Instruments,Metrology,Low,Active,US,112233445,98,99,8,C-2025-010,FCA,Net30
+V0011,TexSub Cotton Linters,Raw Fiber,Medium,Active,US,223344556,94,97,14,C-2025-011,FOB,Net30
+V0012,Shinobi Films,Holographic Film,Medium,Active,JP,334455667,89,94,23,C-2025-012,FCA,Net45
+V0013,SafeSol Chem,Cleaning Solvent,Low,Active,US,445566778,97,96,9,C-2025-013,DDP,Net30
+V0014,BlueShield Adhesives,Adhesive,Medium,Active,US,556677889,92,95,17,C-2025-014,FOB,Net30
+V0015,SkyBridge Freight,Air Freight,High,Active,US,667788990,93,92,21,C-2025-015,CIP,Net30

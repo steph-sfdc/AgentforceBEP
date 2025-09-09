@@ -1,0 +1,5 @@
+facility_id,facility_name,location_city,location_state,type,timezone,capacity_units_per_day,operating_days_per_week,dock_doors,status
+FDC01,Washington DC Facility,Washington,DC,Printing,US/Eastern,12000000,6,18,Active
+FTW01,Fort Worth Facility,Fort Worth,TX,Printing,US/Central,9000000,6,14,Active
+LGS01,Logistics Hub East,Baltimore,MD,Distribution,US/Eastern,250000,5,10,Active
+LGS02,Logistics Hub Central,Memphis,TN,Distribution,US/Central,250000,5,10,Active
